@@ -21,7 +21,7 @@ public:
         
         // Calculate the water trapped above each bar
         for (int i = 0; i < n; ++i) {
-            waterTrapped += min(lmax[i], rmax[i]) - height[i];
+            waterTrapped += max(0,min(lmax[i], rmax[i]) - height[i]);
         }
         
         return waterTrapped;
