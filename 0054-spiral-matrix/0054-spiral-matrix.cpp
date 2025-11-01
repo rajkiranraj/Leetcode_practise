@@ -15,18 +15,23 @@ public:
             resultant_vector.push_back(matrix[j][right]);
         }
         right--;
-        if( top<=bottom){
+        if(top>bottom){
+            return resultant_vector;
+        }
+        if(left>right){
+            return resultant_vector;
+        }
         for(int k = right;k>=left;k--){
             resultant_vector.push_back(matrix[bottom][k]);
         }
         bottom--;
-        }
-        if(left<=right){
+        
+        
         for(int l = bottom;l>=top;l--){
             resultant_vector.push_back(matrix[l][left]);
         }
         left++;
-        }
+        
     }
     return resultant_vector;
     }
