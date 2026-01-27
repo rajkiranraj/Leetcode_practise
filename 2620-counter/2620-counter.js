@@ -3,7 +3,7 @@
  * @return {Function} counter
  */
 var createCounter = function(n) {
-    
+    //closures inner function can access the outer function var (nearest lexical scope var by closures in js)
     return function() {
         return n++;
     };
