@@ -4,8 +4,9 @@
  */
 var createCounter = function(n) {
     //closures inner function can access the outer function var (nearest lexical scope var by closures in js)
+    let count = n;
     return function() {
-        return n++;
+        return count++;
     };
 };
 
