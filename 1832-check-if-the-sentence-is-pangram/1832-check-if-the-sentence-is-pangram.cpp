@@ -1,13 +1,27 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        vector <int> freq_arr(26,0);
-        for(char i: sentence){
-            freq_arr[i-'a']=1;
+        //Optimal approach
+        // vector <int> freq(26,0);
+        // for(auto i: sentence){
+        //     freq[i - 'a']++;
+        // }
+        // for(auto i: freq){
+        //     if(i==0){
+        //         return false;
+        //     }
+        // }
+        // return true;
+
+        //Best approach
+        set <char> s;
+        for(int i = 'a';i<='z';i++){
+            s.insert(i);
         }
-        for(auto i: freq_arr){
-            if(i==0) return false;
+        for(auto c: sentence){
+            s.erase(c);
         }
-        return true;
+        if(s.empty()) return true;
+        return false;
     }
 };
