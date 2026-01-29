@@ -17,3 +17,31 @@ public:
         return s1==s2;
     }
 };
+
+// class Solution {
+// public:
+//     bool backspaceCompare(string s, string t) {
+//         int i = s.length()-1;
+//         int j = t.length()-1;
+//         int sc = 0;
+//         int tc = 0;
+//         while(i!=0 && j!=0){
+//             while(i>0){
+//                 if(s[i]=='#'){
+//                     i--;
+//                     sc++;
+//                 }
+//                 else if(sc>0){
+//                     sc--;
+//                     i--;
+//                 }
+//                 else{
+//                     break;
+//                 }
+//             }
+//             while(j>0){
+                
+//             }
+//         }
+//     }
+// };
