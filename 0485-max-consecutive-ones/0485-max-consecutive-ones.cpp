@@ -7,10 +7,11 @@ public:
             if(nums[i]==1){
                 count++;
             }
-            maxcount = max(maxcount,count);
-            if(nums[i]!=1){
-                count=0;
+            
+            else{
+                count =0;
             }
+            maxcount = max(maxcount,count);
             
         }
         return maxcount;
