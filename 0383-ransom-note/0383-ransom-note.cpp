@@ -12,7 +12,6 @@ public:
         }
         for(int i:freq){
             if(i!=0 && i>0)return false;
-            // cout<<i<<" ";
         }
         return true;
     }
