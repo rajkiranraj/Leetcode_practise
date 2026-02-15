@@ -2,19 +2,18 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n = nums.size();
-        vector <pair<int,int>> v;
-        for(int i = 0; i < n ; i++){
-            v.push_back({nums[i],i});
+        unordered_map <int,int> m;
+        vector <int> ans;
+        for(int i = 0;i<n;i++){
+            int firstValue = nums[i];
+            int secondValue = target - firstValue;
+            if(m.find(secondValue) != m.end()){
+                ans.push_back(i);
+                ans.push_back(m[secondValue]);
+            }
+            m[firstValue] = i;
         }
-        int i = 0;int j = n-1;
-        sort(v.begin(),v.end());
-        while(i<j){
-            int sum = v[i].first + v[j].first;
-            if(sum == target) return {v[i].second,v[j].second};
-            else if(sum > target) j--;
-            else i++;
-        }
-        return {};
+        return ans;
     }
 };
 
@@ -22,15 +21,22 @@ public:
 // public:
 //     vector<int> twoSum(vector<int>& nums, int target) {
 //         int n = nums.size();
-//         for(int i = 0;i < n; i++){
-//             int crsum = nums[i];
-//             int moreNeeded = target-crsum;
-//             if(m.find()!=m.end()){
-//                 return {}
-//             }
+//         vector <pair<int,int>> v;
+//         for(int i = 0; i < n ; i++){
+//             v.push_back({nums[i],i});
 //         }
+//         int i = 0;int j = n-1;
+//         sort(v.begin(),v.end());
+//         while(i<j){
+//             int sum = v[i].first + v[j].first;
+//             if(sum == target) return {v[i].second,v[j].second};
+//             else if(sum > target) j--;
+//             else i++;
+//         }
+//         return {};
 //     }
 // };
+
 
 // class Solution {
 // public:
