@@ -4,12 +4,12 @@ public:
         int n = nums.size();
         unordered_map <int,int> m;
         for(int i = 0;i<n;i++){
-        int firstValue = nums[i];
+            int firstValue = nums[i];
             int secondValue = target - firstValue;
             if(m.find(secondValue) != m.end()){
-                return{i,m[secondValue]};
+                return {i,m[secondValue]};
             }
-            m[firstValue] = i;
+            m[firstValue]=i;
         }
         return {};
     }
