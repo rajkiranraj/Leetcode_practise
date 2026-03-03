@@ -31,3 +31,15 @@ Here I document the problems I solve daily, along with explanations, corrections
 
 ## 🔥 Motivation  
 > *"Consistency beats intensity. Small progress each day leads to big results."*  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0371-sum-of-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0371-sum-of-two-integers/) | Medium |
+<!---LeetCode Topics End-->
