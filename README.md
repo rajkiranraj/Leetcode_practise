@@ -42,4 +42,16 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0371-sum-of-two-integers/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
