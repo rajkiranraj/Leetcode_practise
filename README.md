@@ -62,8 +62,13 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
+| [0796-rotate-string](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0796-rotate-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
