@@ -57,10 +57,12 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0796-rotate-string/) | Easy |
 ## Sorting
