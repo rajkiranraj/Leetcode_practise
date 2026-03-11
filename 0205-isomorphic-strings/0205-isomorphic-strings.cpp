@@ -1,10 +1,12 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int a[256] = {0} , b[256] = {0}; 
-        for(int i=0;i<s.size();i++){
-            if(a[s[i]] != b[t[i]]) return false;
-            a[s[i]] = b[t[i]] = i+1;
+        unordered_map <int,int> m1,m2;
+        int n = s.size();
+        for(int i = 0;i < n; i++){
+if(m1.count(s[i]) && m1[s[i]]!=t[i] || m2.count(t[i])&&m2[t[i]]!=s[i]) return false;
+            m1[s[i]] = t[i];
+            m2[t[i]] = s[i];
         }
         return true;
     }
