@@ -45,6 +45,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -66,6 +67,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0796-rotate-string/) | Easy |
@@ -85,4 +87,8 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
