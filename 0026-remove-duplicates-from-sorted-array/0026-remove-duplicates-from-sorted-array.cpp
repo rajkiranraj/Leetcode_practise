@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        int i = 0;int n = nums.size();
-        for(int j = 1;j < n; j++){
-            if(nums[i]!=nums[j]){
-                nums[i+1] = nums[j];
+    int removeDuplicates(vector<int>& arr) {
+        int i = 0;int n = arr.size();
+        for(int j = 1;j <n ; j++){
+            if(arr[i]!=arr[j]){
+                arr[i+1] = arr[j];
                 i++;
             }
         }
-        return i+1;
-    }
+        return i+1;}
+
 };
