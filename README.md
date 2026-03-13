@@ -49,6 +49,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
