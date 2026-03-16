@@ -47,6 +47,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
@@ -103,6 +104,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
