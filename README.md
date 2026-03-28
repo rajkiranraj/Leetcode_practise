@@ -51,6 +51,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -108,5 +109,10 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
