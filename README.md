@@ -51,6 +51,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -97,6 +98,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
@@ -121,4 +124,12 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
