@@ -46,6 +46,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -100,6 +101,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
