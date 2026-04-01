@@ -1,25 +1,17 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int n = height.size();//size of the array 
-        int left = 1;//left ptr 
-        int right = n - 1;//right ptr 
-        int leftMax = height[0];//left max
-        int rightMax = height[n - 1];//right max
-        int totalWater = 0;//total water 
-//two pointer approach 
-        while (left <= right) {
-            //consider using the left ptr if left<=right for correct lmax 
-            if (leftMax <= rightMax) {
-                totalWater += max(0, leftMax - height[left]);//cal total water from left max and the current ith index
-                leftMax = max(leftMax, height[left]);//update max every step 
-                left++;//move towards left 
-            } else {
-                totalWater += max(0, rightMax - height[right]);
-                rightMax = max(rightMax, height[right]);
-                right--;
-            }
-        }
-        return totalWater;
+    int trap(vector<int>& height) {int n = height.size();
+       vector <int> left(n);vector <int> right(n);
+       left[0]=height[0];right[n-1]=height[n-1];
+       for(int i = 1;i < n; i++){
+        left[i] = max(left[i-1],height[i]);
+       }for(int i = n-2;i >= 0; i--){
+        right[i] = max(right[i+1],height[i]);
+       } 
+       int total = 0;
+       for(int i = 0;i < n; i++){
+        total += min(left[i],right[i]) - height[i];
+       }
+       return total;
     }
 };
