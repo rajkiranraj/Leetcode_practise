@@ -58,6 +58,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -91,6 +92,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
