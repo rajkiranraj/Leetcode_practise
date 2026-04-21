@@ -37,6 +37,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -123,6 +125,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
