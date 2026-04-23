@@ -52,6 +52,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0055-jump-game/) | Medium |
@@ -121,6 +122,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0011-container-with-most-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
