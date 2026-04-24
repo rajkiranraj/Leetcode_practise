@@ -37,6 +37,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0371-sum-of-two-integers/) | Medium |
