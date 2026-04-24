@@ -3,7 +3,7 @@ public:
     bool isPalindrome(int x) {
         long long dup = x;
          if(x<0){
-            dup = dup * -1;
+            return 0;
         }
         long long rev = 0;
        
