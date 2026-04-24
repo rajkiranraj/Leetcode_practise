@@ -60,6 +60,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -82,6 +83,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
@@ -98,6 +100,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | ------- | ------- |
 | [0015-3sum](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String Matching
@@ -149,4 +152,12 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1920-build-array-from-permutation/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
