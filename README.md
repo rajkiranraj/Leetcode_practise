@@ -66,6 +66,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,8 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
