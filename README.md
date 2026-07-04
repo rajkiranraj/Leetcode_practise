@@ -62,6 +62,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -88,6 +89,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0202-happy-number](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0088-merge-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String Matching
@@ -160,16 +163,27 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
