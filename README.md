@@ -94,6 +94,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
