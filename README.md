@@ -100,6 +100,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0205-isomorphic-strings](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0042-trapping-rain-water/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
