@@ -71,6 +71,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [1480-running-sum-of-1d-array](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/rajkiranraj/Leetcode_practise/tree/main/1920-build-array-from-permutation/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rajkiranraj/Leetcode_practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | [0242-valid-anagram](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rajkiranraj/Leetcode_practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ Here I document the problems I solve daily, along with explanations, corrections
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rajkiranraj/Leetcode_practise/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rajkiranraj/Leetcode_practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
